@@ -1,0 +1,3 @@
+[submodule "components/my_string"]
+	path = components/my_string
+	url = https://github.com/M-Kobayashi-org/ESP32-my_string.git
