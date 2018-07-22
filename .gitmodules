@@ -1,0 +1,3 @@
+[submodule "components/trim"]
+	path = components/trim
+	url = https://github.com/M-Kobayashi-org/ESP32Lib-String_trim.git
