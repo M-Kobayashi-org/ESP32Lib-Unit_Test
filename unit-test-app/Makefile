@@ -4,6 +4,7 @@
 #
 
 PROJECT_NAME := unit-test-app
+COMPONENT_DIRS := $(abspath $(abspath .)/../components) $(abspath .)/components $(IDF_PATH)/components $(abspath .)/main
 
 include $(IDF_PATH)/make/project.mk
 
